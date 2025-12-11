@@ -144,7 +144,7 @@ export default function Hero() {
           className="text-5xl md:text-7xl font-bold mb-6"
         >
           <span className="text-gradient animate-gradient bg-[length:200%_auto]">
-            Hi, I'm {personalInfo.name}
+            Hi, I&apos;m {personalInfo.name}
           </span>
         </motion.h1>
 

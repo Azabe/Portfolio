@@ -110,10 +110,10 @@ export default function Contact() {
           <div className="grid md:grid-cols-2 gap-12">
             <motion.div variants={itemVariants}>
               <h3 className="text-2xl font-semibold mb-6">
-                Let's work together!
+                Let&apos;s work together!
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-                I'm always open to discussing new projects, creative ideas, or
+                I&apos;m always open to discussing new projects, creative ideas, or
                 opportunities to be part of your visions. Feel free to reach out
                 to me.
               </p>
