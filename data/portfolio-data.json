@@ -1,0 +1,232 @@
+{
+  "personal": {
+    "name": "Patrick Azabe",
+    "title": "Software Engineer",
+    "bio": "A highly skilled Software Engineer and Mobile Engineer with a strong background in backend development, specializing in designing and implementing robust, scalable, and efficient server-side solutions. Proficient in Java, PHP, .NET, Node.js, Flutter, and Ionic, with expertise in building and optimizing APIs and sustainable systems. Skilled in frontend technologies such as HTML, CSS, Angular, and React, enabling effective contributions to fullstack development projects. Passionate about crafting high-performance software solutions that align with industry best practices and exceed client expectations.",
+    "email": "azabepatrick34@gmail.com",
+    "phone": "+250 780 625 946",
+    "location": "Rwanda",
+    "profileImage": "/azabe.jpg",
+    "resume": "/Patrick_Azabe_CV.pdf"
+  },
+  "social": {
+    "github": "https://github.com/Azabe",
+    "linkedin": "https://www.linkedin.com/in/azabe-patrick/",
+    "email": "azabepatrick34@gmail.com"
+  },
+  "experience": [
+    {
+      "id": "1",
+      "company": "HISP Rwanda",
+      "position": "Web & Mobile Apps Developer",
+      "period": "August 2025 - Present",
+      "type": "Full-time",
+      "description": "Develop Android and hybrid mobile apps using Flutter. Build and maintain backend services and integrate RESTful APIs. Develop and maintain web applications built on DHIS2 platform.",
+      "responsibilities": [
+        "Developed Android and hybrid mobile apps using Flutter",
+        "Built and maintained backend services and integrated RESTful APIs",
+        "Develop and maintain web applications built on DHIS2"
+      ]
+    },
+    {
+      "id": "2",
+      "company": "GTBank Rwanda",
+      "position": "Software Engineer & Mobile Developer",
+      "period": "Jul 2023 - August 2025",
+      "type": "Full-time",
+      "description": "Developed Android and hybrid mobile apps using Kotlin, Ionic, and Flutter. Built and maintained backend services and APIs. Integrated RESTful APIs and third-party SDKs. Led performance profiling, optimization, and release workflows via GitHub Actions.",
+      "responsibilities": [
+        "Developed Android and hybrid mobile apps using Kotlin, Ionic, and Flutter",
+        "Built and maintained backend services and APIs",
+        "Integrated RESTful APIs and third-party SDKs",
+        "Led performance profiling, optimization, and release workflows via GitHub Actions"
+      ]
+    },
+    {
+      "id": "3",
+      "company": "IDEMBE Ltd",
+      "position": "Software Development Apprenticeship",
+      "period": "Nov 2018 - Feb 2020",
+      "type": "Apprenticeship",
+      "description": "Supported development of mobile user interface and backend components. Contributed to database integration and RESTful API consumption. Assisted in testing, debugging, and deployment of enterprise applications.",
+      "responsibilities": [
+        "Supported development of mobile user interface and backend components",
+        "Contributed to database integration and RESTful API consumption",
+        "Assisted in testing, debugging, and deployment of enterprise applications"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "degree": "Bachelor's Degree in Software Engineering",
+      "institution": "Adventist University of Central Africa",
+      "type": "University",
+      "iconName": "award"
+    },
+    {
+      "id": "2",
+      "degree": "Diploma in Computer Science",
+      "institution": "Ecole Technique Saint Kizito",
+      "type": "Diploma",
+      "iconName": "book"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "HTML & CSS",
+      "level": 90,
+      "iconName": "html"
+    },
+    {
+      "id": "2",
+      "name": "Java & Frameworks",
+      "level": 85,
+      "iconName": "java"
+    },
+    {
+      "id": "3",
+      "name": "Flutter",
+      "level": 80,
+      "iconName": "flutter"
+    },
+    {
+      "id": "4",
+      "name": "Ionic",
+      "level": 80,
+      "iconName": "ionic"
+    },
+    {
+      "id": "5",
+      "name": "JavaScript",
+      "level": 80,
+      "iconName": "javascript"
+    },
+    {
+      "id": "6",
+      "name": "Kotlin",
+      "level": 75,
+      "iconName": "kotlin"
+    },
+    {
+      "id": "7",
+      "name": "Angular",
+      "level": 75,
+      "iconName": "angular"
+    },
+    {
+      "id": "8",
+      "name": "PHP",
+      "level": 70,
+      "iconName": "php"
+    },
+    {
+      "id": "9",
+      "name": "TypeScript",
+      "level": 65,
+      "iconName": "typescript"
+    },
+    {
+      "id": "10",
+      "name": "C# & .NET",
+      "level": 60,
+      "iconName": "dotnet"
+    },
+    {
+      "id": "11",
+      "name": "React",
+      "level": 75,
+      "iconName": "react"
+    },
+    {
+      "id": "12",
+      "name": "Node.js",
+      "level": 70,
+      "iconName": "nodejs"
+    },
+    {
+      "id": "13",
+      "name": "Git",
+      "level": 85,
+      "iconName": "git"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "GTWorld Mobile App",
+      "company": "GTBank Rwanda",
+      "description": "Contributed to the end-to-end development of the GTWorld mobile app for GTBank Rwanda, supporting the implementation of key features, UI components, and secure user workflows.",
+      "image": "🏦",
+      "tags": [
+        "Ionic",
+        "Angular",
+        "TypeScript",
+        "Mobile Development",
+        "Banking"
+      ],
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "PBF (Performance Based Financing)",
+      "company": "HISP Rwanda",
+      "description": "Developed and maintained key features for Rwanda's Performance-Based Financing (PBF) mobile and web platforms, including data entry modules, performance dashboards, and user authentication workflows to improve health facility reporting and monitoring.",
+      "image": "📊",
+      "tags": [
+        "Flutter",
+        "DHIS2",
+        "Mobile",
+        "Web",
+        "Healthcare"
+      ],
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Orange Toolbox",
+      "company": "GTBank Rwanda",
+      "description": "Designed and developed Orange Toolbox, a mobile application used by GTBank account officers to open accounts, onboard customers, and manage key banking internal operations in the field.",
+      "image": "🧰",
+      "tags": [
+        "Mobile",
+        "Kotlin",
+        "Ionic",
+        "Flutter",
+        "Banking"
+      ],
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Payment Gateway Integration",
+      "company": "GTBank Rwanda",
+      "description": "Integrated a third-party payment gateway with the bank's core system, facilitating real-time MoMo (Mobile Money) transactions to bank. Developed secure RESTful APIs and handled transaction status monitoring and error handling.",
+      "image": "💳",
+      "tags": [
+        "REST APIs",
+        "Payment Gateway",
+        "Integration",
+        "Security",
+        "Backend"
+      ],
+      "featured": false
+    },
+    {
+      "id": "5",
+      "title": "Inventory Management System",
+      "company": "IDEMBE Ltd",
+      "description": "Built a cross-platform mobile and web solution for small businesses to track inventory, manage stock levels, and generate real-time reports. Designed the backend architecture and contributed to frontend development.",
+      "image": "📦",
+      "tags": [
+        "Mobile",
+        "Web",
+        "Backend",
+        "Database",
+        "Cross-platform"
+      ],
+      "featured": false
+    }
+  ]
+}
