@@ -122,7 +122,8 @@ export default function Hero() {
             transition={{ duration: 3, repeat: Infinity, repeatDelay: 1 }}
           >
             {!imageError ? (
-              <div className="w-24 h-24 sm:w-32 sm:h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 xl:w-56 xl:h-56 mx-auto">
+              <div className="w-24 h-24 sm:w-32 sm:h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 xl:w-56 xl:h-56 mx-auto relative">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={personalInfo.profileImage}
                   alt={personalInfo.name}

@@ -140,7 +140,7 @@ export default function Experience() {
                       </p>
                       {exp.responsibilities && (
                         <ul className="space-y-2">
-                          {exp.responsibilities.map((responsibility, idx) => (
+                          {exp.responsibilities.map((responsibility: string, idx: number) => (
                             <li
                               key={idx}
                               className="flex items-start gap-2 text-gray-600 dark:text-gray-300"
